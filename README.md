@@ -1,2 +1,2 @@
 # serverless
-RESTful API with Authentication Node JS (Express)
+RESTful API with Authentication JSON Web Token in Node JS (Express)
